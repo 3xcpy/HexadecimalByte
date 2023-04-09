@@ -9,4 +9,5 @@
 HexadecimalByte/HexadecimalByte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hexadecimalbyte&theme=dark)](https://git.io/streak-stats)
+[![Hexadecimalbyte's GitHub stats](https://github-readme-stats.vercel.app/api?username=hexadecimalbyte&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Hexadecimalbyte's GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=Hexadecimalbyte&theme=dark)](https://git.io/streak-stats)
