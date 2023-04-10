@@ -1,7 +1,7 @@
 ![A Matrix Cat gif](https://media3.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.webp?cid=6c09b952c599db6286f6401cc4bcc0fb64ebdf9431498c3a&rid=giphy.webp&ct=g)
 <!--- <img src="https://komarev.com/ghpvc/?username=hexadecimalbyte&style=flat-square&color=blue" alt=""/> --->
 
-### :man_technologist: About Me
+### :shipit: About Me
 
 - 👋 Hi, I’m @HexadecimalByte, a 14 y/o Programmer
 - 👀 I’m interested in Game Development, Game Engine Programming and Web Development
@@ -22,5 +22,7 @@ You can click the Preview link to take a look at your changes.
 [![Hexadecimalbyte's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hexadecimalbyte&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
+
+### :trollface: Random funnies
 
 ![A programming joke](https://readme-jokes.vercel.app/api)
