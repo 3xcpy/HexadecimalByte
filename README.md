@@ -26,3 +26,8 @@ You can click the Preview link to take a look at your changes.
 ### :trollface: Random funnies
 
 ![A programming joke](https://readme-jokes.vercel.app/api)
+<br/>
+<sup><sub><sup><sub><sup><sub>Hi</sub></sup>
+</sub></sup>
+</sub></sup>
+
