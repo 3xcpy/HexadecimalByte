@@ -25,6 +25,12 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
+### :trophy: Trophies
+
+https://github-profile-trophy.vercel.app/?username=hexadecimalbyte&theme=discord
+
+---
+
 ### :trollface: Random funnies
 
 ![A programming joke](https://readme-jokes.vercel.app/api)
