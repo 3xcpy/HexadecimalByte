@@ -23,15 +23,15 @@ You can click the Preview link to take a look at your changes.
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hexadecimalbyte&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Hexadecimalbyte's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hexadecimalbyte&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!---
+
 
 ---
 
 ### :trophy: Trophies
 
-https://github-profile-trophy.vercel.app/?username=hexadecimalbyte&theme=discord
+![My trophies](https://github-profile-trophy.vercel.app/?username=hexadecimalbyte&theme=discord)
 
---->
+
 
 ---
 
