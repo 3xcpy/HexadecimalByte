@@ -1,7 +1,9 @@
 ![A Matrix Cat gif](https://media3.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.webp?cid=6c09b952c599db6286f6401cc4bcc0fb64ebdf9431498c3a&rid=giphy.webp&ct=g)
 <!--- <img src="https://komarev.com/ghpvc/?username=hexadecimalbyte&style=flat-square&color=blue" alt=""/> --->
 
-![Alt Text](https://github.com/HexadecimalByte/HexadecimalByte/blob/5a3e1f227b98851f65b796a093c2c5918dbf3877/assets/rE0fWpx0.gif)
+![HexadecimalByte](https://github.com/HexadecimalByte/HexadecimalByte/blob/5a3e1f227b98851f65b796a093c2c5918dbf3877/assets/rE0fWpx0.gif)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Game+Developer;Graphics+Programmer;Learning+C%2B%2B)](https://git.io/typing-svg)
 
 ### :shipit: About Me
 
