@@ -8,7 +8,7 @@
 ### :shipit: About Me
 
 - 👋 Hi, I’m @HexadecimalByte, a 14 y/o Programmer
-- 👀 I’m interested in Game Development, Game Engine Programming and Web Development
+- 👀 I’m interested in Game Development, Game Engine Programming and Graphics Programming
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on nothing yet
 - 📫 How to reach me: currently not at all
