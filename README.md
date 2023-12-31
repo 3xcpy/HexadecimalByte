@@ -10,8 +10,10 @@
 - 👋 Hi, I’m @HexadecimalByte, a 15 y/o Programmer
 - 👀 I’m interested in Game Development, Game Engine Programming and Graphics Programming
 - 🌱 I’m currently learning Game Development
+<!---
 - 💞️ I’m looking to collaborate on nothing yet
 - 📫 How to reach me: currently not at all
+--->
 
 ---
 
